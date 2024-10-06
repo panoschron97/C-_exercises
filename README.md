@@ -1,3 +1,3 @@
-C++_exercises
+# C__exercises
 
 C++ exercises.
